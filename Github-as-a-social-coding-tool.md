@@ -1,7 +1,7 @@
 # Github as a social coding tool
 GitHub,  a great web-based Git repository hosting service, offers all of the distributed revision control and source code management functionality. However, the most outstanding feature of GitHub is its social coding.
 
-You can see what other people are working on and whom they are connecting with.
+You can see what other people are working on and whom they are connecting with. This is great for a project that requires multiple people doing different roles at the same time.
 
 Not only watching others’ project, you may join someone’s project if you find yourself being able to contribute to it. By sending a **pull request** to the person who has created the project, you can add more features on his/her project!
 
