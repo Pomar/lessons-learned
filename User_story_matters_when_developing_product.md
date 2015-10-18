@@ -13,3 +13,5 @@ So that (benefit)
  
 *Confirmation:* Need to determine scenarios that the product features should be accepted. One of the useful formats for acceptance criteria is (given)(when)(then) format.
  
+
+![Card](http://iif.co.nz/wp-content/uploads/2015/06/Post-it.jpg)
