@@ -3,7 +3,7 @@ GitHub,  a great web-based Git repository hosting service, offers all of the dis
 
 You can see what other people are working on and whom they are connecting with.
 
-Not only watching others’ project, you may join someone’s project if you find yourself being able to contribute to it. By sending a **pull request** to the person who has created the project, you can add more features on his/her project!
+Not only watching others’ project, you may join someone’s project if you find yourself being able to contribute to it. This is great for people who have a lot of different things to offer or have expertise in certain areas. By sending a **pull request** to the person who has created the project, you can add more features on his/her project!
 
 If you’re a project manager, you can send invitations to whom you want to work together as **collaborators** or send **pull request** to whom you want any feedback from them.
 
