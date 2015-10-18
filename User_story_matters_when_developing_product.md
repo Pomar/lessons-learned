@@ -9,9 +9,13 @@ I want (feature)
 So that (benefit)
  
 *Conversation:* The product features are determined through conversation among programmers and users.
+Continuous conversation is important. Sometimes with [coffee](http://www.starbucks.com/) 
  
  
 *Confirmation:* Need to determine scenarios that the product features should be accepted. One of the useful formats for acceptance criteria is (given)(when)(then) format.
- 
+
+It is extremely important to understand products should be built to solve user problems. If we fail to do that, it is probably just a waste of money. That's why we emphasize creating user story when developing products.
 
 ![Card](http://iif.co.nz/wp-content/uploads/2015/06/Post-it.jpg)
+
+
